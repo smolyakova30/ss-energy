@@ -22,3 +22,15 @@
 .card {
     display: flex;
 }
+
+
+.contact-info {
+    display: flex;
+    background-color: #f8f9fa;
+}
+
+
+
+.cont-info {
+    padding: 50px;
+}
