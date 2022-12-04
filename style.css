@@ -2,15 +2,29 @@
     background-color: #313642;
 }
 
+.free{
+    text-decoration: none;
+    color: #34abe1;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.freeEstimates {
+    background-color: #f8f9fa;
+    color: #34abe1;
+    padding: 10px;
+    text-align: center;
+}
+
 .aboutUs {
-    background-color: #313642;
+   background-color: #f8f9fa;
     display: flex;
     justify-content: space-between;
 }
 
 .welcomeText {
     margin: 35px;
-    color: white;
+    color: #313642;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .welcomeImg {
@@ -23,10 +37,21 @@
     display: flex;
 }
 
+.card-body{
+    font-size: 15px;
+}
+
+
 
 .contact-info {
     display: flex;
     background-color: #f8f9fa;
+}
+
+.servicesImg{
+    padding: 10px;
+    width: 25%;
+    margin: auto;
 }
 
 
